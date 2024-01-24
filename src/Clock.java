@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Clock {
+public interface Clock {
+    public abstract void alarm();
 }
